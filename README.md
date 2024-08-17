@@ -24,9 +24,9 @@
   
 - ⚡ I’m looking for opportunities to develop myself
   
-- 😄 Fun fact: I love Football(⚽), Codeing(💻), Traveling(🌍)
+- 😄 Fun fact: I love Football(⚽), Coding(💻), Traveling(🌍)
   
-- 💬 Ask me about SQL, Java, Python, TypeScript, JavaScript
+- 💬 Ask me about SQL, Java, Python
   
 
 
@@ -34,8 +34,6 @@
 <a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-java-48.png'> </a>
 <a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-typescript-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-spring-boot-48.png'> </a>
 <a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-nodejs-48 (1).png'> </a>
 <a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
