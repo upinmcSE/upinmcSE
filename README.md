@@ -1,79 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Duong Trung Thanh</h1>
+<h3 align="center">A Computer Science student</h3>
 
-<p align="center">
-    <img width="200" src="images/boy_7583638.png">
+- I'm a software developer with a passion for exploring new technologies and solving real-world problems through code. Outside of work, I enjoy:
+    + 🎮 Gaming: I'm a big fan of competitive and strategy games, always looking for new challenges.
+    + 🎵 Music: Music is my constant companion, helping me focus and relax – from pop to instrumental.
+    + ⚽ Football: I’m passionate about football, whether it's watching matches or playing with friends.
+    + ✈️ Traveling: I love exploring new places, experiencing different cultures, and discovering hidden gems.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/d%c6%b0%c6%a1ng-trung-th%c3%a0nh-47bb8128b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d%c6%b0%c6%a1ng-trung-th%c3%a0nh-47bb8128b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/toidgonthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toidgonthi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/upinmcse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/upinmcse/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align='center'>
-  <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upinmcse&show_icons=true&locale=en&layout=compact" alt="upinmcse" /></p>
 
-<div style="text-align: center; font-size: 20px;">
-  Hi! My name is Duong Trung Thanh. I'm from Viet Nam (🇻🇳). Thank You for taking the time to view my GitHub Profile 😊
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upinmcse&show_icons=true&locale=en" alt="upinmcse" /></p>
 
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently a Computer Science student
-  
-- 🌱 I’m currently learning Software, AI
-  
-- ⚡ I’m looking for opportunities to develop myself
-  
-- 😄 Fun fact: I love Football(⚽), Coding(💻), Traveling(🌍)
-  
-- 💬 Ask me about SQL, Java, Python
-  
-
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-java-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-spring-boot-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-nodejs-48 (1).png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-flutter-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-mysql-logo-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-postman-is-the-only-complete-api-development-environment-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-docker-a-set-of-coupled-software-as-a-service-48.png'> </a>
-<a href= https://github.com/upinmcSE?tab=repositories > <img width ='32px' src ='images/icons8-linux-48.png'> </a>
-
-
-
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/d%C6%B0%C6%A1ng-trung-th%C3%A0nh-47bb8128b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.instagram.com/upin_223/'> <img width = '32px' align= 'center' src="images/icons8-instagram-48.png"/></a> 
-<a href = 'https://github.com/upinmcSE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-
-| ![Upin's github stats](https://github-readme-stats.vercel.app/api?username=upinmcSE&show_icons=true&theme=tokyonight) | ![Upin GitHub](https://github-readme-streak-stats.herokuapp.com/?user=upinmcSE&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upinmcSE&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=upinmcSE&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-<br>
-
-
------
-Credits: [Upin !](https://github.com/upinmcSE)
-
-Last Edited on: 15/07/2024
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upinmcse&" alt="upinmcse" /></p>
