@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duong Trung Thanh</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- I'm a software developer with a passion for exploring new technologies and solving real-world problems through code. Outside of work, I enjoy:
-    + 🎮 Gaming: I'm a big fan of competitive and strategy games, always looking for new challenges.
-    + 🎵 Music: Music is my constant companion, helping me focus and relax – from pop to instrumental.
-    + ⚽ Football: I’m passionate about football, whether it's watching matches or playing with friends.
-    + ✈️ Traveling: I love exploring new places, experiencing different cultures, and discovering hidden gems.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/d%c6%b0%c6%a1ng-trung-th%c3%a0nh-47bb8128b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d%c6%b0%c6%a1ng-trung-th%c3%a0nh-47bb8128b/" height="30" width="40" /></a>
