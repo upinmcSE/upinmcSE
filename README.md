@@ -1,8 +1,36 @@
 ```java
-final class ThanhD {
-  private final String name = "Duong Trung Thanh";
-  private int age = 23;
-  private String job = "Software Engineer";
+public final class ThanhD {
+
+    private final String name = "Duong Trung Thanh";
+
+    private int age = 23;
+    private String role = "Software Engineer";
+    private String location = "Ha Noi, Viet Nam";
+
+    private final List<String> languages = new ArrayList<>(
+            List.of("Java", "Go", "Rust")
+    );
+
+    private final List<String> interests = List.of(
+            "Backend Development",
+            "Distributed Systems",
+    );
+
+    public void levelUp() {
+        age++;
+    }
+
+    public void changeRole(String newRole) {
+        role = newRole;
+    }
+
+    public void relocate(String newLocation) {
+        location = newLocation;
+    }
+
+    public void learn(String language) {
+        languages.add(language);
+    }
 }
 ```
 <p align="center">
