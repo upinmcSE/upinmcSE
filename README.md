@@ -7,7 +7,7 @@ public final class ThanhD {
     private String role = "Software Engineer";
     private String location = "Ha Noi, Viet Nam";
 
-    private final List<String> languages = new ArrayList<>(
+    private List<String> skills = new ArrayList<>(
             List.of("Java", "Go", "Rust")
     );
 
@@ -18,6 +18,7 @@ public final class ThanhD {
 
     public void levelUp() {
         age++;
+        role = "Better Engineer";
     }
 
     public void changeRole(String newRole) {
@@ -28,8 +29,8 @@ public final class ThanhD {
         location = newLocation;
     }
 
-    public void learn(String language) {
-        languages.add(language);
+    public void learn(String skill) {
+        skills.add(skill);
     }
 }
 ```
