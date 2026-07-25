@@ -1,5 +1,5 @@
 ```java
-public final class ThanhD {
+public class ThanhD {
 
     private final String name = "Duong Trung Thanh";
 
